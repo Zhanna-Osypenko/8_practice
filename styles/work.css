@@ -97,7 +97,7 @@ img {
     border-radius: 10px;
     box-shadow: 5px 5px 15px lightblue;
     padding: 10px;
-    background-color: white;
+    background-color: rgb(253, 152, 152);
     transition: all .3s ease-in-out;
 }
 
